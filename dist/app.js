@@ -1,0 +1,1 @@
+function sayGreeting(e){return console.log(e),e}alert("Hello How are you");var greeting="WOw Muzammal Rajpoot";sayGreeting(greeting);
